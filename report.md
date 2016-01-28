@@ -32,11 +32,11 @@ In this section, please report:
 2. Write down the definite integrals that you have chosen.
 3. Write down your system of 10 linear equations.
 
-1. 0x126153
+ 1. 0x126153
 
-2. $$\int_0^{\int_100} e^{x^2} dx = \frac{\sqrt{\pi*erfi(100)}}{2}.$$
+ 2. $$\int_0^{\int_100} e^{x^2} dx = \frac{\sqrt{\pi*erfi(100)}}{2}.$$
 
-3. \begin{align*}
+ 3. \begin{align*}
    4 x_0 +x_2 &= 10,\\
    2 x_0 + 3 x_1 &= 9.
    \end{align*}
